@@ -1,0 +1,22 @@
+{
+  "alarms": [
+    {
+      "id": "SJZJpv1Gg",
+      "time": "2019-02-08T19:04:00.000Z",
+      "isActive": true,
+      "repeat": false
+    },
+    {
+      "id": "r1m58Pu7x",
+      "time": "2019-02-08T20:04:00.000Z",
+      "isActive": true,
+      "repeat": false
+    },
+    {
+      "id": "-ZI_Rce0D",
+      "time": "2019-02-08T20:06:00.000Z",
+      "isActive": true,
+      "repeat": false
+    }
+  ]
+}
