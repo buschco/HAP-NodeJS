@@ -1,6 +1,8 @@
 HAP-NodeJS
 ==========
 
+This is a fork of the HAP-NodeJS repository. I only contains one accessory: A fake motion sensor, which trigers on a specific time. It also has a small api to set this times. 
+
 [![NPM version](https://badge.fury.io/js/hap-nodejs.svg)](http://badge.fury.io/js/hap-nodejs)
 
 HAP-NodeJS is a Node.js implementation of the HomeKit Accessory Server.
